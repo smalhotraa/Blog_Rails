@@ -48,6 +48,26 @@ footer {
   color: #777;
 }
 
+.article-actions {
+  border-top: 1px solid #eeaaee;
+  padding: 5px
+}
+
+.description {
+  margin: 0;
+}
+
+.article-title {
+  font-weight: bold;
+  font-size: 1.5em;
+}
+
+.article-body {
+  border-top: 1px solid #eeaaee;
+  padding-top: 15px;
+  padding-bottom: 15px;
+}
+
 footer a:hover{
   color: #222;
 }  
