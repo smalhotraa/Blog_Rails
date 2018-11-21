@@ -1,24 +1,5 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+This is a Rails Project of a blog's website and has basic crud operations, with basic styling done using Bootstrap HTML and CSS.
+It's being currently hosted on heroku and can be used through the link - 
+https://rails-blog-test-sm.herokuapp.com/
