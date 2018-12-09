@@ -44,17 +44,22 @@
 footer {
   margin-top: 35px;
   padding-top: 5px;
-  border-top: 1px solid #eeaaee;
+  border-top: 1px solid #eaeaea;
   color: #777;
 }
 
 .article-actions {
-  border-top: 1px solid #eeaaee;
+  border-top: 1px solid #eaeaea;
   padding: 5px
 }
 
 .description {
   margin: 0;
+}
+
+.article-meta-data {
+  border-top: 1px solid #eaeaea;
+  margin-top: 15px;
 }
 
 .article-title {
@@ -63,7 +68,7 @@ footer {
 }
 
 .article-body {
-  border-top: 1px solid #eeaaee;
+  border-top: 1px solid #eaeaea;
   padding-top: 15px;
   padding-bottom: 15px;
 }
